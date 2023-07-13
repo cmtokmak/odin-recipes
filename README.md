@@ -1,3 +1,3 @@
 # odin-recipes
 
-A HTML only website which will contain recipes.
+TOP exercise practicing html and css
